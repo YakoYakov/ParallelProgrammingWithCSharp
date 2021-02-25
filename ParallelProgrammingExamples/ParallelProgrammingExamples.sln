@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.WaitingOnTasksToComplete
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ExceptionHandling", "05.ExceptionHandling\05.ExceptionHandling.csproj", "{0C209ED0-5702-43A4-950D-4487866A9C4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CriticalSections", "06.CriticalSections\06.CriticalSections.csproj", "{E035139E-FF34-4018-B0CB-B3BE42CBF21C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0C209ED0-5702-43A4-950D-4487866A9C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C209ED0-5702-43A4-950D-4487866A9C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C209ED0-5702-43A4-950D-4487866A9C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E035139E-FF34-4018-B0CB-B3BE42CBF21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E035139E-FF34-4018-B0CB-B3BE42CBF21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E035139E-FF34-4018-B0CB-B3BE42CBF21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E035139E-FF34-4018-B0CB-B3BE42CBF21C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
