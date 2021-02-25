@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.WaitingOnTask", "03.Wait
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.WaitingOnTasksToCompleteWork", "04.WaitningOnTasksToCompleteWork\04.WaitingOnTasksToCompleteWork.csproj", "{7460DF10-9D14-4C4E-911D-C97792AB785F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ExceptionHandling", "05.ExceptionHandling\05.ExceptionHandling.csproj", "{0C209ED0-5702-43A4-950D-4487866A9C4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7460DF10-9D14-4C4E-911D-C97792AB785F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7460DF10-9D14-4C4E-911D-C97792AB785F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7460DF10-9D14-4C4E-911D-C97792AB785F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C209ED0-5702-43A4-950D-4487866A9C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C209ED0-5702-43A4-950D-4487866A9C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C209ED0-5702-43A4-950D-4487866A9C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C209ED0-5702-43A4-950D-4487866A9C4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
