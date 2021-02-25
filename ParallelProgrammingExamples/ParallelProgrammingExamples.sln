@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CancellingTasks", "Cance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WaitingOnTask", "03.WaitingOnTask\03.WaitingOnTask.csproj", "{96992E82-51D1-4811-92C1-64AD456736FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WaitningOnTasksToCompleteWork", "04.WaitningOnTasksToCompleteWork\04.WaitningOnTasksToCompleteWork.csproj", "{7460DF10-9D14-4C4E-911D-C97792AB785F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{96992E82-51D1-4811-92C1-64AD456736FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96992E82-51D1-4811-92C1-64AD456736FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96992E82-51D1-4811-92C1-64AD456736FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7460DF10-9D14-4C4E-911D-C97792AB785F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7460DF10-9D14-4C4E-911D-C97792AB785F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7460DF10-9D14-4C4E-911D-C97792AB785F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7460DF10-9D14-4C4E-911D-C97792AB785F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
