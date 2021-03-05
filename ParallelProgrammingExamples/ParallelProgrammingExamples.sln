@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ConcurrentQueue", "12.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ConcurrentStack", "13.ConcurrentStack\13.ConcurrentStack.csproj", "{44150F17-F3AB-4877-8A3E-4D01CE76D6DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ConcurrentBag", "14.ConcurrentBag\14.ConcurrentBag.csproj", "{BA1E970E-1611-4B87-A5E4-0CEF534D8DBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{44150F17-F3AB-4877-8A3E-4D01CE76D6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44150F17-F3AB-4877-8A3E-4D01CE76D6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44150F17-F3AB-4877-8A3E-4D01CE76D6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1E970E-1611-4B87-A5E4-0CEF534D8DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1E970E-1611-4B87-A5E4-0CEF534D8DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1E970E-1611-4B87-A5E4-0CEF534D8DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1E970E-1611-4B87-A5E4-0CEF534D8DBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
