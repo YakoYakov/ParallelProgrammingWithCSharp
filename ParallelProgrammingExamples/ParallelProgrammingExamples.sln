@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CreatingAndStartingTasks", "01.CreatingAndStartingTasks\01.CreatingAndStartingTasks.csproj", "{C493A320-A0DE-4327-B559-9678DD33CF38}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CancellingTasks", "CancellingTasks\02.CancellingTasks.csproj", "{BB01D9D2-45D0-43FE-9238-06E2097014B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CancellingTasks", "02.CancellingTasks\02.CancellingTasks.csproj", "{BB01D9D2-45D0-43FE-9238-06E2097014B8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.WaitingOnTask", "03.WaitingOnTask\03.WaitingOnTask.csproj", "{96992E82-51D1-4811-92C1-64AD456736FF}"
 EndProject
@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.CriticalSections", "06.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.InterlockOperations", "07.InterlockOperations\07.InterlockOperations.csproj", "{17122D8D-BD30-4252-8CEB-C681A307A1CB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.SpinLockAndLockRecursion", "SpinLockAndLockRecursion\08.SpinLockAndLockRecursion.csproj", "{D271DFED-C2F3-48A8-B96E-C1FB9E1AB5DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.SpinLockAndLockRecursion", "08.SpinLockAndLockRecursion\08.SpinLockAndLockRecursion.csproj", "{D271DFED-C2F3-48A8-B96E-C1FB9E1AB5DA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Mutex", "09.Mutex\09.Mutex.csproj", "{21812845-15E3-4238-AB9D-9ABB63444516}"
 EndProject
