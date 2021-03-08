@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace _14.ConcurrentBag
 {
-    class Program
+    class Startup
     {
         static void Main(string[] args)
         {
@@ -13,7 +13,7 @@ namespace _14.ConcurrentBag
             ConcurrentBag<int> bag = new ConcurrentBag<int>();
             List<Task> tasks = new List<Task>();
 
-            for (int i = 0; i <= 10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 int toAdd = i;
                 tasks.Add(Task.Factory.StartNew(() =>
