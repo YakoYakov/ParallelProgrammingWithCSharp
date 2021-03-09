@@ -25,13 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.ReaderWriterLocks", "10.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.ConcurrentDictionary", "11.ConcurrentDictionary\11.ConcurrentDictionary.csproj", "{FD208842-E45B-43B5-AF3A-A5914B062F53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ConcurrentQueue", "12.ConcurrentQueue\12.ConcurrentQueue.csproj", "{3A61E99D-9AD9-4ED6-914B-E639D7918415}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.ConcurrentQueue", "12.ConcurrentQueue\12.ConcurrentQueue.csproj", "{3A61E99D-9AD9-4ED6-914B-E639D7918415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ConcurrentStack", "13.ConcurrentStack\13.ConcurrentStack.csproj", "{44150F17-F3AB-4877-8A3E-4D01CE76D6DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.ConcurrentStack", "13.ConcurrentStack\13.ConcurrentStack.csproj", "{44150F17-F3AB-4877-8A3E-4D01CE76D6DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.ConcurrentBag", "14.ConcurrentBag\14.ConcurrentBag.csproj", "{BA1E970E-1611-4B87-A5E4-0CEF534D8DBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.ConcurrentBag", "14.ConcurrentBag\14.ConcurrentBag.csproj", "{BA1E970E-1611-4B87-A5E4-0CEF534D8DBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockingCollections", "BlockingCollections\BlockingCollections.csproj", "{1BAF62D6-9BD9-496A-952E-CA31BF7C9795}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.BlockingCollections", "BlockingCollections\15.BlockingCollections.csproj", "{1BAF62D6-9BD9-496A-952E-CA31BF7C9795}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
