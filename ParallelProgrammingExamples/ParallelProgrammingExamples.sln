@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.ConcurrentBag", "14.Conc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.BlockingCollections", "15.BlockingCollections\15.BlockingCollections.csproj", "{1BAF62D6-9BD9-496A-952E-CA31BF7C9795}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Continuations", "16.Continuations\16.Continuations.csproj", "{9636BC7F-76B7-499B-8CC0-994035FD775C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.Continuations", "16.Continuations\16.Continuations.csproj", "{9636BC7F-76B7-499B-8CC0-994035FD775C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.ChildTasks", "17.ChildTasks\17.ChildTasks.csproj", "{3271F315-8210-40D3-91B5-A58083DCB544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.ChildTasks", "17.ChildTasks\17.ChildTasks.csproj", "{3271F315-8210-40D3-91B5-A58083DCB544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Barrier", "18.Barrier\18.Barrier.csproj", "{B5EC5825-93AB-42FA-BCCD-49060ED522D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{3271F315-8210-40D3-91B5-A58083DCB544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3271F315-8210-40D3-91B5-A58083DCB544}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3271F315-8210-40D3-91B5-A58083DCB544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EC5825-93AB-42FA-BCCD-49060ED522D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EC5825-93AB-42FA-BCCD-49060ED522D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EC5825-93AB-42FA-BCCD-49060ED522D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EC5825-93AB-42FA-BCCD-49060ED522D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
